@@ -1,0 +1,5 @@
+{ "app" : "Maps", "provider" : "Google", "isReliable" : true }
+{ "app" : "Safari", "provider" : "Apple", "isReliable" : false }
+{ "app" : "Atom", "provider" : "Github", "isReliable" : false }
+{ "app" : "Java", "provider" : "Oracle", "isReliable" : true }
+{ "app" : "Office", "provider" : "Microsoft", "isReliable" : false }
